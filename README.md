@@ -17,7 +17,7 @@ Para alimentar a base de conhecimento deste projeto no NotebookLM, foram selecio
 
 * [DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
 
-* [ECMAScript 6 - Entre de cabeça no futuro do JavaScript (PDF)](./Fontes/ecmascript-6-guia.pdf)
+* [ECMAScript 6 - Entre de cabeça no futuro do JavaScript (PDF)(./Fontes/ecmascript-6-guia.pdf)
 
 
 
