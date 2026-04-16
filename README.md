@@ -19,7 +19,7 @@ Para alimentar a base de conhecimento deste projeto no NotebookLM, foram selecio
 
 * [ECMAScript 6 - Entre de cabeça no futuro do JavaScript (PDF)](.//ecmascript-6-guia.pdf)
 
-* [  ]
+* [ Guia_Front_End (PDF)](.//Guia_Front_End.pdf)
 
 
 
